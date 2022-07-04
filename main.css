@@ -13,7 +13,7 @@ body {
 
 	/* https://cssgradient.io/gradient-backgrounds/ */
 	background: #c6ffdd;
-	background: linear-gradient( to right, #f7797d, #fbd786, #c6ffdd );
+	background-image: linear-gradient(to right, #30cfd0 0%, #330867 100%);
 
 	display: flex;
 	justify-content: center;
