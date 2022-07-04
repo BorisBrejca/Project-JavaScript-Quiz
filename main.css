@@ -11,7 +11,6 @@ body {
 	font-family: "Noto Sans", sans-serif;
 	font-size: 16px;
 
-	/* https://cssgradient.io/gradient-backgrounds/ */
 	background: #c6ffdd;
 	background-image: linear-gradient(to right, #30cfd0 0%, #330867 100%);
 
